@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: Laren2121/Hello-barssom@0.0.1
+        uses: Laren2121/Hello-barssom@0.0.2
         with:
           name: 'brown'
       # Use the output from the `hello` step
